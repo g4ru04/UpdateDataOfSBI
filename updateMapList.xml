@@ -1,0 +1,24 @@
+
+<UpdateList>
+	<UpdateElement>
+		<ElementName>天氣預報資料</ElementName>
+		<ElementJarName>UpdateData/Weather/UpdateWeatherData.jar</ElementJarName>
+	</UpdateElement>
+	<UpdateElement>
+		<ElementName>捷運人流</ElementName>
+		<ElementJarName>BBB</ElementJarName>
+	</UpdateElement>
+	<UpdateElement>
+		<ElementName>天氣歷史資料</ElementName>
+		<ElementJarName>BBB</ElementJarName>
+	</UpdateElement>
+	<UpdateElement>
+		<ElementName>交流道車流</ElementName>
+		<ElementJarName>UpdateData/InterchangeFlow/UpdateFreeWayFlow.jar</ElementJarName>
+	</UpdateElement>
+	
+<!-- 	<UpdateElement> -->
+<!-- 		<ElementName>AAA</ElementName> -->
+<!-- 		<ElementJarName>BBB</ElementJarName> -->
+<!-- 	</UpdateElement> -->
+</UpdateList>

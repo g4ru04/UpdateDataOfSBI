@@ -1,0 +1,41 @@
+
+<configPool>
+	<config>
+		<configFor>### Manager Windows ###</configFor>
+		<updateDir>D:/data/SBI/UpdateData/</updateDir>
+<!-- 		<updateListPath>D:/workspace/eclipse/UpdateDataOfSBI/updateMapList.xml</updateListPath> -->
+		<updateListPath>D:/data/SBI/UpdateData/updateMapList.xml</updateListPath>
+	</config>
+<!-- 	<config> -->
+<!-- 		<configFor>### Manager Linux ###</configFor> -->
+<!-- 		<updateDir>/data/SBI/UpdateData</updateDir> -->
+<!-- 		<updateListPath>/data/SBI/UpdateData/updateMapList.xml</updateListPath> -->
+<!-- 	</config> -->
+<!-- 	<config> -->
+<!-- 		<configFor>### 164 ###</configFor> -->
+<!-- 		<dbURL>jdbc:mysql://192.168.112.164:3306/cdri</dbURL> -->
+<!-- 		<dbUserName>root</dbUserName> -->
+<!-- 		<dbPassword>admin123</dbPassword> -->
+<!-- 		<tmpDir>/data/SBI/UpdateData/temporary</tmpDir> -->
+<!-- 		<needSP></needSP> -->
+<!-- 		<needTB></needTB> -->
+<!-- 	</config> -->
+<!-- 	<config> -->
+<!-- 		<configFor>### aber ###</configFor> -->
+<!-- 		<dbURL>jdbc:mysql://10.0.0.4/sbi</dbURL> -->
+<!-- 		<dbUserName>root</dbUserName> -->
+<!-- 		<dbPassword>Admin@csi1008!</dbPassword> -->
+<!-- 		<tmpDir>/data/SBI/UpdateData/temporary</tmpDir> -->
+<!-- 		<needSP></needSP> -->
+<!-- 		<needTB></needTB> -->
+<!-- 	</config> -->
+<!-- 	<config> -->
+<!-- 		<configFor>### 55 ###</configFor> -->
+<!-- 		<dbURL>jdbc:mysql://localhost:3306/sbi</dbURL> -->
+<!-- 		<dbUserName>root</dbUserName> -->
+<!-- 		<dbPassword>admin123</dbPassword> -->
+<!-- 		<tmpDir>/data/SBI/UpdateData/temporary</tmpDir> -->
+<!-- 		<needSP></needSP> -->
+<!-- 		<needTB></needTB> -->
+<!-- 	</config> -->
+</configPool>
